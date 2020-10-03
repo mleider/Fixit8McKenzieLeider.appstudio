@@ -1,3 +1,4 @@
+/*
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"];
 let firstName = "";
 btnSubmitMember.onclick=function(){
@@ -9,3 +10,4 @@ btnSubmitMember.onclick=function(){
     members.push(firstName);
     console.log(members);
 }
+*/
